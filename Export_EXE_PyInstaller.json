@@ -1,0 +1,109 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "C:/Users/tiago.cvasconcelos/PyCharmProjects/Programa_Cartas_de_Controle/app_launcher.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": true
+  },
+  {
+   "optionDest": "console",
+   "value": true
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "plotly"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "streamlit.web.cli"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "pandas"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "numpy"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "streamlit"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/tiago.cvasconcelos/PyCharmProjects/Programa_Cartas_de_Controle/LOGO AERIS.png;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/tiago.cvasconcelos/PyCharmProjects/Programa_Cartas_de_Controle/main.py;."
+  },
+  {
+   "optionDest": "copy_metadata",
+   "value": "streamlit"
+  },
+  {
+   "optionDest": "copy_metadata",
+   "value": "altair"
+  },
+  {
+   "optionDest": "copy_metadata",
+   "value": "pydeck"
+  },
+  {
+   "optionDest": "copy_metadata",
+   "value": "blinker"
+  },
+  {
+   "optionDest": "collect_submodules",
+   "value": "streamlit"
+  },
+  {
+   "optionDest": "hookspath",
+   "value": "C:/Users/tiago.cvasconcelos/PyCharmProjects/Programa_Cartas_de_Controle"
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}
